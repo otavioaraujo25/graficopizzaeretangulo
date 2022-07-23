@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqAuAuBvLQanKbiHzyntj/vcSW9QgC8ERcaBxPB5JeqmEx9BjnRZew305AEoKcaviQsMTQofVctzQnzpPoyYzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Otavio\\Desktop\\Faculdade 2 Ano\\POO\\4 Bimestre\\Trabalho Graphics Pizza\\Graphics1310\\Graphics1310\\Graphics1310.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Otavio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

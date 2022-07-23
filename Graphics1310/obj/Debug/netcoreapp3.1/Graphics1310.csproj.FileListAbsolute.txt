@@ -1,0 +1,15 @@
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.exe
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.deps.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.runtimeconfig.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.runtimeconfig.dev.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\bin\Debug\netcoreapp3.1\Graphics1310.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.Form1.resources
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.csproj.GenerateResource.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.AssemblyInfoInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.AssemblyInfo.cs
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\4 Bimestre\Trabalho Graphics Pizza\Graphics1310\Graphics1310\obj\Debug\netcoreapp3.1\Graphics1310.genruntimeconfig.cache
